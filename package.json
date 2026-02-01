@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-website",
+  "name": "portfolio-pro",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -29,4 +29,6 @@
     "autoprefixer": "10.4.16",
     "postcss": "8.4.32",
     "typescript": "5.3.3",
-    "@types/react-intersection-obs
+    "@types/react-intersection-observer": "9.5.1"
+  }
+}
